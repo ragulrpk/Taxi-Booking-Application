@@ -4,7 +4,9 @@ Simple Taxi Booking application Using Java
 Solution has been provided for Zoho long coding question in three different ways.
 
 Solution 1: With Static Variables and unlimited taxi.
+
 Solution 2: With Objects and unlimited taxi.
+
 Solution 3: With Four Taxi.
 
 Question:
